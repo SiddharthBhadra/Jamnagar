@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/jamnagar_home_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/jamnagar" />
+
+    <TextView
+        android:id="@+id/home_title"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:background="#EFE9EB"
+        android:fontFamily="@font/roboto_medium"
+        android:text="@string/home_page"
+        android:textColor="#000000"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/home_page_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto_light"
+        android:text="@string/jamnagar_detail"
+        android:textColor="#000000"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/button_home"
+        android:layout_width="192dp"
+        android:layout_height="62dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#6AF61E"
+        android:fontFamily="@font/roboto_medium"
+        android:text="@string/homepage_button"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

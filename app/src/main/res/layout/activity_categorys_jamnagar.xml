@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/description_places"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:context=".Categorys_jamnagar">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/places_jamnagar"
+                android:layout_width="match_parent"
+                android:layout_height="221dp"
+                android:background="#000000"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/places" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:background="#FFFFFF"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center_horizontal"
+                android:text="@string/description_places_jamnagar"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/history_jamnagar"
+                android:layout_width="match_parent"
+                android:layout_height="221dp"
+                android:background="#000000"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/category1" />
+
+            <TextView
+                android:id="@+id/history_description"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:background="#FFFFFF"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center_horizontal"
+                android:text="@string/history_jamnagar"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/hotel_jamnagar"
+                android:layout_width="match_parent"
+                android:layout_height="221dp"
+                android:background="#000000"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/hotel" />
+
+            <TextView
+                android:id="@+id/Hotel_detail"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:background="#FFFFFF"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center_horizontal"
+                android:text="@string/hotel_jamnagar"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+            <ImageButton
+                android:id="@+id/army_jamnagar"
+                android:layout_width="match_parent"
+                android:layout_height="221dp"
+                android:background="#000000"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/army" />
+
+            <TextView
+                android:id="@+id/airforce_detail"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:background="#FFFFFF"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center_horizontal"
+                android:text="@string/army_jamnagar"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/food_jamnagar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/food" />
+
+            <TextView
+                android:id="@+id/food_detail"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:background="#FFFFFF"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center_horizontal"
+                android:text="@string/food_jamnagar"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/temp_jamnagar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/temp_icon" />
+
+            <TextView
+                android:id="@+id/temp_detail"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:background="#FFFFFF"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center_horizontal"
+                android:text="@string/temple_jamnagar"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/rel_jamnagar"
+                android:layout_width="match_parent"
+                android:layout_height="234dp"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/rel" />
+
+            <TextView
+                android:id="@+id/ref_details"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:background="#FFFFFF"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center_horizontal"
+                android:text="@string/refinery"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

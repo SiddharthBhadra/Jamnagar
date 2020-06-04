@@ -1,0 +1,286 @@
+<resources>
+    <!--App name -->
+    <string name="app_name">Jamnagar</string>
+
+    <!-- Home activity title-->
+    <string name="home_page">
+       \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t  JAMNAGAR \n\n
+    </string>
+
+    <!--Home activity details -->
+    <string name="jamnagar_detail">
+        Jamnagar is a city located on the western coast of India in the state of Gujarat in Saurashtra region.\n
+        The modern look of the city was initially given by H.H. Jam Ranjitsinhji.\n
+        He was instrumental in building the modern infrastructure of the city during his reign in the 1920s.\n
+        India\'s largest private company, Reliance Industries, has established the world\'s largest Oil Refining and Petrochemicals Complex near the village of Moti Khavdi in Jamnagar district.\n
+    </string>
+
+    <!--Home page button for next page -->
+    <string name="homepage_button">Click Here For More Details</string>
+
+    <!--Categorys on activity 2 -->
+    <string name="description_places_jamnagar">Places in Jamnagar</string>
+    <string name="history_jamnagar">History of Jamnagar</string>
+    <string name="hotel_jamnagar">Hotels in Jamnagar</string>
+    <string name="army_jamnagar">Defence in Jamnagar</string>
+    <string name="food_jamnagar">Food and Restaurents</string>
+    <string name="temple_jamnagar">Worship place in Jamnagar</string>
+    <string name="refinery">Jamnagar Refiery</string>
+
+    <!--places in jamnagar activity 3 -->
+    <!--place 1 -->
+    <string name="place1">
+      <b> 1. Darbargadh Palace</b>\n
+Darbargadh (Maharajah\'s palace), the old royal residence of Jam Saheb and the most important historical complex in Jamnagar, reflects the fusion of Rajput and European styles of architecture.
+    </string>
+
+    <!--place 2 -->
+    <string name="place2">
+        <b> 2. Bhujio Kotho\n </b>
+Bhujio Kotho is well known among tourists due to its height and circumference. It is on the bank of the Lakhota Tank, near Khambhaliya Gate. This monument has five floors, and is believed to have been constructed for protection during the invasions.
+    </string>
+
+    <!--place 3 -->
+    <string name="place3">
+        <b>  3. Khijadiya Bird Sanctuary\n</b>
+Khijadia Bird Sanctuary,Located 10 kilometres (6.2 mi) north east of Jamnagar, features a seasonal freshwater shallow lake, inter-tidal mudflats, creeks, saltpans, saline land and mangrove scrub. The place is a known breeding ground of the Great Crested Grebe.
+    </string>
+
+    <!--place 4 -->
+    <string name="place4">
+        <b> 4. Balachadi Beach\n</b>
+The balachadi beach is located 27 kilometres from Jamnagar. During the World War II, the then ruler of Jamnagar, Jam Digvijaysinh built a summer camp for polish refugee children seeking shelter from the Nazi after they were denied entry at the Mumbai Port. Later it was converted into present day Sainik School, Balachadi
+    </string>
+
+    <!--place 5 -->
+    <string name="place5">
+        <b> 5. Pirotan Island\n</b>
+Lighthouse at Pirotan is one of the 42 islands which compose the Marine National Park. India\'s first national marine park comes under the Jamnagar district of Gujarat. Pirotan lies 12 nautical miles off the coast (Bedi Port) and stretches up to 3 km.
+    </string>
+
+    <!--History on activity 4 part 1 of theory -->
+    <string name="part1">
+        Nawanagar was founded by Jam Rawal in 1540 as the capital of the eponymous Princely state.[10] Jamnagar, historically known as Nawanagar (the new town), was one of the most important and the largest Princely states of the Jadejas in the Saurashtra region. It was a 13 gun salute state. According to Pauranik literature, Lord Krishna established his kingdom at Dwarka town in Jamnagar district, after migrating from Mathura, and accordingly, it is to the Yadava race that the Jams of Nawanagar.\n\n
+        According to historical records, Bahadurshah, the emperor of Gujarat, bestowed upon Jam Lakhaji twelve villages in recognition of his role in the siege of Pawagadh. Jam Lakhaji, however, was killed by his cousins, Tamachi Deda and Jam Hamirji Jadeja, after he took possession of the villages. His son, Jam Rawal, thereafter murdered his father\'s killers and became ruler of Cutch\n\n
+        Hamirji\'s two sons Khengarji and Sahibji fled to Delhi to pay obeisance to the Mughal Emperor Humayun. During a lion hunt, the two brothers saved the Emperor from being killed by a lion. As a reward for their valor, an army was sent with them to regain their kingdom. When Jam Sri Rawalji heard of the two princes coming back to the Kutch with the imperial army, he prepared for battle.\n\n
+        One night, Goddess Ashapuraji, the supreme deity of the Jadeja Clan of Rajputs, came to Jam Sri Rawalji in a dream and told him that although he had broken an oath taken in her name not to kill Hamirji, even though he was the person responsible for his death, she had refrained from punishing him because he had at all other times honoured her, but he was no longer to dwell in Cutch.
+
+    </string>
+
+    <!--History page on activity 4 part 2 of theory -->
+    <string name="part2">
+        Jam Sri Rawalji and his entourage marched out of Cutch, attacked and killed Tamachi deda, the main conspirator in the killing of his father, and conquered the town of Amran and its dependencies. Jam Sri Rawalji bestowed the rule of Dhrol province on his younger brother Hardholji, who was later killed in battle at Mithoi near Khambhalia, whereupon the throne passed on to his eldest son, Jasoji. Jam hri Rawalji conquered parts of Saurashtra and formed his kingdom with 999 villages named it as Halar.\n\n
+         Once on a hunting trip in present-day Jamnagar, a hare was found to be brave enough to turn on the hunting dogs and put them to flight. Deeply impressed by this, Jam Sri Rawalji thought that if this land could breed such hares, the men born here would be superior to other men, and accordingly he made this place his capital.\n\n
+        On the seventh day of the bright half of the month of Shrawan, V.S. 1956 (August 1540) on the banks of the rivers Rangmati and Nagmati, he laid the foundation of his new capital and named it Nawanagar (new town), which after few centuries came to be known as Jamnagar, meaning the town of the JAM\'s.
+    </string>
+
+    <!--activity 5 Hotels -->
+    <!--Hotel 1 -->
+    <string name="hotel1">
+        1. Hotel Aram
+    </string>
+
+    <!--Hotel 1 address -->
+    <string name="hoteladdres1">
+       Address: Nand Niwas, Pandit Nehru Marg, Jamnagar, Gujarat 361008.
+    </string>
+
+    <!--Hotel 2 -->
+    <string name="hotel2">
+        2. Hotel Fortune
+    </string>
+
+    <!--Hotel 2 address -->
+    <string name="hoteladdress2">
+        Address: Digjam Circle, Airport Road, Jamnagar, Gujarat 360005.
+    </string>
+
+    <!--hotel 3 -->
+    <string name="hotel3">
+        3.Anaya Beacon
+    </string>
+
+    <!--hotel 3 address -->
+    <string name="hoteladdress3">
+        Address: Aerodrome Rd, Near sales, Khodiyar Colony, Jamnagar, Gujarat 361006
+    </string>
+
+    <!--hotel 4 -->
+    <string name="hotel4">
+        4.Svasti
+    </string>
+
+    <!--hotel 4 address -->
+    <string name="hoteladdress4">
+        Address: Satyam Colony, Jamnagar, Gujarat 361006
+    </string>
+
+    <!--hotel 5 -->
+    <string name="hotel5">
+        5.Celebration
+    </string>
+
+    <!--hotel 5 address -->
+    <string name="address5">
+        Address: Indira Gandhi Marg, near Gurudwara circle, Jamnagar, Gujarat 361001
+    </string>
+
+    <!-- Defence on activity 6-->
+    <string name="defence">
+        Jamnagar has base stations of all three wings of Defence: the Indian Air Force, Indian Army, and Indian Navy. Geographically Jamnagar supports all branches of defence, as it has access to the sea for the Indian Navy and a large air base due to the city\'s strategic location close to Pakistan
+    </string>
+    <string name="army_detail">
+        1. Army
+    </string>
+    <string name="army_d">
+        The Indian Army (Hindi: Bhāratīya Thal Sēnā) is the land-based branch and the largest component of the Indian Armed Forces. The President of India is the Supreme Commander of the Indian Army, and its professional head is the Chief of Army Staff (COAS), who is a four-star general.
+    </string>
+    <string name="airforce">
+        2. Airforce
+    </string>
+    <string name="air_d">
+        The No. 224 Squadron (Warlords) of the IAF is an Ground Attack squadron based at Jamnagar AFS. It was temporarily disbanded in 2007 after the retirement of MiG-23MF aircraft. The unit was resurrected in 2008 with Jaguar Darin II aircraft and continues to operate from Jamnagar.
+    </string>
+    <string name="navy">
+        3. Navy
+    </string>
+    <string name="navu_d">
+        HMIS Valsura was commissioned in 1942 as the Torpedo Training School of The Royal Indian Navy. The name Valsura means Swordfish , which was also the name of the most common torpedo carrying aircraft of the Royal Navy. Post- Independence, the establishment was renamed Indian Naval Ship Valsura. It is located on Rozi Island in Jamnagar amidst the scenic salt pans that are home to several species of migratory birds.
+    </string>
+
+    <!--Food and Restaurants on activity 7 -->
+    <string name="food_intro">
+        Just like people in other parts of Gujarat, people of Jamnagar also fall in the category of \'foodies\'. Prime attraction for the tourists is the \'Jamnagari Mukhvaas\' and the special \'Dry fruit Kachori\'.For those who have a sweet tooth, the city is no disappointment to you too since there are number of milk and dry fruit sweets shops famous for their respective specialities. For the street food lovers, the streets of Patel Colony will serve as a perfect delight to you; serving all sorts of Indian cuisines including chaats, Chinese, South-Indian, Ice-creams, and much more. Also, for the sophisticated ones there are a good number of hotels and restaurants across the city to fill up your tummies with multiple cuisines. Apart from local restaurants, the city houses franchises of chains like Subway, Domino\'s and others.
+        Starting up the mornings with \'jalebi-fafda and papaya sambharo\' and ending the day with a \'Heera – Moti icecream\' from Ram dairy seems like a perfect \'Jamnagiri\' lifestyle.
+    </string>
+
+    <!--restaurant 1 -->
+    <string name="res1">
+        1.Spicy Bite and Cafe
+    </string>
+
+    <!--address of 1st res.. -->
+    <string name="resadd1">
+       Address: Vinayak Plaza, Digjam Circle, Aerodrome Rd, Komal Nagar, Mayur Nagar, Jamnagar, Gujarat 361006
+    </string>
+
+    <!--restaurant 2 -->
+    <string name="res2">
+        2. The Saffron
+    </string>
+
+    <!--address of 2nd res.. -->
+    <string name="resadd2">
+       Address: 603, Airport Road, Komal Nagar, Mayur Nagar, Jamnagar, Gujarat 361006
+    </string>
+
+    <!--resaurant 3 -->
+    <string name="res3">
+        3. RTV Rajwadu The Village
+    </string>
+
+    <!--address of 3rd res.. -->
+    <string name="resadd3">
+        Address: Limda Ln, Patrakar Colony, Jamnagar, Gujarat 361001
+    </string>
+
+    <!--restaurant 4 -->
+    <string name="res4">
+       4. Mr and Mrs Idly
+    </string>
+
+    <!--address of 4rh res.. -->
+    <string name="resadd4">
+        Address: Park Colony, Jamnagar, Gujarat 361008
+    </string>
+
+    <!--restaurant 5 -->
+    <string name="res5">
+        5. Subway
+    </string>
+
+    <!--address of 5th res.. -->
+    <string name="resadd5">
+        Address: Shop No. 1, 2, 3, Silver Plaza, Street Number 7, Patel Colony, Jamnagar, Gujarat 361008
+    </string>
+
+    <!--restaurant 6 -->
+    <string name="res6">
+        6. Dominos
+    </string>
+
+    <!--address of 6th res.. -->
+    <string name="resadd6">
+        Address: 1D, Ground Floor and First Floor, Paras Society, Cross Bedi Road, Jamnagar, Gujarat 361008
+    </string>
+
+    <!--Temples on activity 8 -->
+    <!--tem->Temples -->
+    <!--tem 1 -->
+    <string name="temp1">
+        1. Trimandir Temple
+    </string>
+    <!--detail of tem 1 -->
+    <string name="temp1_details">
+The Trimandir is a magnificent two-storey structure with a Gigantic Hall on the ground floor and temple on the first floor. In a Trimandir, Gods of Jainism, Shaivism, and Vaishnavism (along with Gods and Goddesses from other religions) share equal reverence on the same platform.
+    </string>
+
+    <!--tem 2 -->
+    <string name="temp2">
+        2. Vardhman Shah\'s Temple
+    </string>
+
+    <!--details of tem 2 -->
+    <string name="temp2_details">
+Vardhman Shah\'s Temple is a delightful shrine and one of the four main Jain temples in Jamnagar. The foundation stone of this shrine was laid in 1612, during the reign of Jam Jasaji I, and it was completed in the year 1620. Fifty-two very small temples or \'Deri\' were built around the temple in 1622. This temple is dedicated to Adinathji, first tirthankar of Jainism.
+    </string>
+
+    <!--tem 3 -->
+    <string name="temp3">
+        3. Bala Hunman Temple
+    </string>
+
+    <!--details of tem 3 -->
+    <string name="temp3_details">
+The Bala Hanuman Temple is on the south-eastern side of Ranmal Lake. The temple is known for the continuous 24-hour chanting of the mantra \'Sri Ram, Jai Ram, Jai Jai Ram\', since 1 August 1964. This devotion has earned Bala Hanuman Temple a place in the Guinness Book of Records. Thousands of devotees visit the temple every year. Early evening is a particularly good time to visit the temple.
+    </string>
+
+    <!--tem 4 -->
+    <string name="temp4">
+        4. Shantinath Temple
+    </string>
+
+    <!--details of tem 4 -->
+    <string name="temp4_details">
+Shantinath Mandir is situated south-west of Bedi Gate in Jamnagar. The temple has intricate carvings and the walls are adorned with fine murals, which depict the lives of Jain saints. The floor is made of marble and decorated with distinctive Jain patterns in yellow, black, white and red.
+    </string>
+
+    <!--tem 5  -->
+    <string name="temp5">
+        5. BAPS Shri Swaminarayan Temple
+    </string>
+
+    <!--details of tem 5 -->
+    <string name="temp5_details">
+This Temple is situated at the outskirts of the city, Near Samrpan Hospital Khambhaliya Bypass Jamnagar.
+    </string>
+
+    <!--Refiniery on acctivity 9 -->
+    <string name="ref">
+        The Jamnagar Refinery is a private sector crude oil refinery owned by Reliance Industries Limited in Jamnagar, Gujarat, India. The refinery was commissioned on 14 July 1999 with an installed capacity of 668,000 barrels per day (106,200 m3/d). It is currently the largest refinery in the world.
+    </string>
+
+    <!--Topic name on activity 9 -->
+    <string name="topic">
+        History
+    </string>
+
+    <!--detail on activity 9 -->
+    <string name="his">
+        On 25 December 2008, Reliance Petroleum Limited (RPL) announced the commissioning of its refinery into a Special Economic Zone in Jamnagar district of Gujarat, India. The completion of the RPL refinery has enabled Jamnagar to emerge as a ‘Refinery land’, housing the world\'s largest refining complex with an aggregate refining capacity of 1.24 million barrels (197,000 m3) of oil per day, more than any other single location in the world.\n\n
+        The globally competitive RPL refinery was commissioned in 36 months. RPL contracted several companies having expertise in engineering construction and refining like Bechtel, UOP LLC and Foster Wheeler amongst others. There were plans for the pipeline to process High Pour Point crude oil extracted at Barmer, Rajasthan, although this would require an electrically heated traced pipeline to be set up from Barmer to Jamnagar.\n\n
+        The entire complex, as of 2013, consists of manufacturing and allied facilities, utilities, off-sites, port facilities and a township (415 acres) with housing for its 2,500 employees, on over 7,500 acres (3,000 ha; 11.7 sq mi) of land. If all of the pipes used in the refinery were laid out, one after another, they would connect the whole of India from north to south.
+    </string>
+
+
+</resources>

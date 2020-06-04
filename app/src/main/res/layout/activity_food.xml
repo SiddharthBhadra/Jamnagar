@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Food">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView27"
+                android:layout_width="match_parent"
+                android:layout_height="557dp"
+                android:text="@string/food_intro"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView28"
+                android:layout_width="match_parent"
+                android:layout_height="97dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="@string/res1"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="417dp"
+                        android:layout_height="469dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/spicy1" />
+
+                    <ImageView
+                        android:layout_width="417dp"
+                        android:layout_height="469dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/spicy2" />
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/textView29"
+                android:layout_width="match_parent"
+                android:layout_height="111dp"
+                android:text="@string/resadd1"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView30"
+                android:layout_width="match_parent"
+                android:layout_height="97dp"
+                android:text="@string/res2"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="412dp"
+                android:layout_height="469dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/saffron1" />
+
+            <ImageView
+                android:layout_width="412dp"
+                android:layout_height="469dp"
+                android:src="@drawable/saffron2"
+                android:scaleType="fitXY"/>
+
+        </LinearLayout>
+        </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/textView31"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:text="@string/resadd2"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/textView32"
+                android:layout_width="match_parent"
+                android:layout_height="97dp"
+                android:text="@string/res3"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="412dp"
+                android:layout_height="469dp"
+                android:src="@drawable/rajwadu1"
+                android:scaleType="fitXY"/>
+
+            <ImageView
+                android:layout_width="412dp"
+                android:layout_height="469dp"
+                android:src="@drawable/rajwadu2"
+                android:scaleType="fitXY"/>
+
+        </LinearLayout>
+        </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/textView33"
+                android:layout_width="match_parent"
+                android:layout_height="97dp"
+                android:text="@string/resadd3"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView34"
+                android:layout_width="match_parent"
+                android:layout_height="97dp"
+                android:text="@string/res4"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="412dp"
+                android:layout_height="400dp"
+                android:src="@drawable/idly1"
+                android:scaleType="fitXY"/>
+
+            <ImageView
+                android:layout_width="412dp"
+                android:layout_height="400dp"
+                android:src="@drawable/idly2"
+                android:scaleType="fitXY"/>
+
+        </LinearLayout>
+        </HorizontalScrollView>
+
+
+            <TextView
+                android:id="@+id/textView35"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:text="@string/resadd4"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView36"
+                android:layout_width="match_parent"
+                android:layout_height="97dp"
+                android:text="@string/res5"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="412dp"
+                        android:layout_height="469dp"
+                        android:src="@drawable/sub"
+                        android:scaleType="fitXY"/>
+
+                    <ImageView
+                        android:layout_width="412dp"
+                        android:layout_height="469dp"
+                        android:src="@drawable/sub2"
+                        android:scaleType="fitXY"/>
+
+                </LinearLayout>
+            </HorizontalScrollView>
+
+
+            <TextView
+                android:id="@+id/textView37"
+                android:layout_width="match_parent"
+                android:layout_height="93dp"
+                android:text="@string/resadd5"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView38"
+                android:layout_width="match_parent"
+                android:layout_height="97dp"
+                android:text="@string/res6"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="412dp"
+                        android:layout_height="469dp"
+                        android:src="@drawable/dom1"
+                        android:scaleType="fitXY"/>
+
+                    <ImageView
+                        android:layout_width="412dp"
+                        android:layout_height="469dp"
+                        android:src="@drawable/dom2"
+                        android:scaleType="fitXY"/>
+
+                </LinearLayout>
+            </HorizontalScrollView>
+
+
+            <TextView
+                android:id="@+id/textView39"
+                android:layout_width="match_parent"
+                android:layout_height="166dp"
+                android:text="@string/resadd6"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
